@@ -4,10 +4,6 @@
 
 <br>
 
-### Software Engineering Student • Full Stack Developer • AI Explorer • Cloud Enthusiast • Freelance Developer
-
-Passionate about building scalable software, modern web applications, cloud solutions, and AI-powered products.
-
 <p align="center">
 <a href="https://github.com/D1eVr">GitHub</a> •
 <a href="https://www.linkedin.com/in/diego-valdovinos-rodriguez">LinkedIn</a> •
