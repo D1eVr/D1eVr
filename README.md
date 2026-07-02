@@ -1,38 +1,41 @@
-# Hi there, I'm Diego Valdovinos 👋
+<div align="center">
+
+<img src="./assets/banner.png" alt="Banner" width="100%"/>
+
+<br>
+
+### Software Engineering Student • Full Stack Developer • AI Explorer • Cloud Enthusiast • Freelance Developer
+
+Passionate about building scalable software, modern web applications, cloud solutions, and AI-powered products.
 
 <p align="center">
-  <em>Software Engineering Student • Full Stack Developer • Cloud & AI Enthusiast</em>
+<a href="https://github.com/D1eVr">GitHub</a> •
+<a href="https://www.linkedin.com/in/diego-valdovinos-rodriguez">LinkedIn</a> •
+<a href="mailto:diegovaldovinos125@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  Passionate about designing scalable applications, building impactful digital products, and continuously learning modern technologies.
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨🏻‍💻 About Me
 
-I'm a Software Engineering student from Mexico with a strong interest in full-stack development, cloud computing, software architecture, and artificial intelligence.
+🎓 **Software Engineering Student (7th Semester)**  
+**Universidad Anáhuac Querétaro, Mexico**
 
-I enjoy turning ideas into high-quality software by focusing on clean code, intuitive user experiences, and scalable backend systems. I believe technology should solve real-world problems while remaining simple, maintainable, and efficient.
+I am passionate about software engineering, cloud computing, and artificial intelligence. I enjoy designing scalable systems, developing modern web applications, and continuously learning new technologies that help transform ideas into high-quality digital products.
 
-* 🎓 Software Engineering Student
-* 💼 Full Stack Developer
-* 🌎 Based in Mexico
-* ☁️ Learning AWS Cloud & DevOps
-* 🤖 Exploring Artificial Intelligence and AI Agents
-* 🚀 Passionate about Software Architecture and System Design
-* 📚 Lifelong learner who enjoys challenging projects
+Currently, I am focused on improving my knowledge in backend development, cloud infrastructure, software architecture, and AI while building real-world applications.
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
-* Developing modern web applications with React and Next.js
-* Building scalable backend services with Python and Django
-* Expanding knowledge in AWS Cloud and cloud-native architectures
-* Improving software architecture and design patterns
-* Creating AI-powered applications and automation tools
+- 🌐 Developing production-ready web applications
+- ☁️ Learning AWS Cloud & DevOps
+- 🤖 Building AI-powered solutions
+- 🏗️ Studying Clean Architecture & System Design
+- 📚 Expanding my knowledge in Software Engineering
 
 ---
 
@@ -41,37 +44,37 @@ I enjoy turning ideas into high-quality software by focusing on clean code, intu
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,java,sql" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,sql"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,django,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,django,express"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase"/>
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,github,git" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
 </p>
 
-### Development Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
 </p>
 
 ---
@@ -80,18 +83,17 @@ I enjoy turning ideas into high-quality software by focusing on clean code, intu
 
 ## ✈️ Alcon Travel Platform
 
-A modern travel booking platform designed to simplify reservations and business management.
+A complete travel booking platform designed to simplify reservations and business management.
 
 **Highlights**
 
-* Authentication system
-* Reservation management
-* Administrative dashboard
-* Payment integration
-* Responsive interface
-* Modern architecture
+- Authentication
+- Reservation management
+- Administrative dashboard
+- Payment integration
+- Responsive design
 
-**Tech**
+**Stack**
 
 Next.js • React • Supabase • Stripe
 
@@ -99,16 +101,16 @@ Next.js • React • Supabase • Stripe
 
 ## 🧠 PgPilot
 
-An intelligent assistant that helps developers analyze, understand, and optimize SQL queries.
+AI-assisted SQL optimization platform that helps developers analyze and improve PostgreSQL queries.
 
 **Highlights**
 
-* Query optimization
-* PostgreSQL support
-* Docker environment
-* Developer-oriented interface
+- Query optimization
+- Dockerized environment
+- PostgreSQL support
+- Developer-oriented interface
 
-**Tech**
+**Stack**
 
 Python • PostgreSQL • Docker
 
@@ -116,16 +118,9 @@ Python • PostgreSQL • Docker
 
 ## 💰 Finance Dashboard
 
-Interactive dashboard for personal finance management with visual analytics.
+Interactive personal finance dashboard with real-time analytics and visual reports.
 
-**Highlights**
-
-* Expense tracking
-* Income analysis
-* Charts & reports
-* Financial insights
-
-**Tech**
+**Stack**
 
 Python • Streamlit
 
@@ -133,85 +128,85 @@ Python • Streamlit
 
 ## 🏢 Condominium Management System
 
-Management platform for residential communities.
+Management platform for residential communities with administrative tools and database integration.
 
-**Highlights**
-
-* Resident management
-* Administrative tools
-* Database integration
-* Secure authentication
-
-**Tech**
+**Stack**
 
 Django • MySQL
 
 ---
 
-# 🌱 Currently Learning
-
-* AWS Cloud
-* DevOps
-* Clean Architecture
-* System Design
-* Distributed Systems
-* Artificial Intelligence
-* AI Agents
-* MCP Servers
-
----
-
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=D1eVr&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1eVr&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=D1eVr&theme=github-dark-blue&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=D1eVr&theme=github-compact"/>
 
-</p>
+</div>
 
 ---
 
-# 🤝 Let's Connect
+# 🌱 Currently Learning
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/diego-valdovinos-rodr%C3%ADguez-207587287">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:TU_CORREO_AQUI">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+- AWS Cloud
+- Docker
+- DevOps
+- Clean Architecture
+- System Design
+- Artificial Intelligence
+- AI Agents
+- MCP Servers
 
 ---
 
-# 💡 Philosophy
+# 🎯 Interests
 
-> *"Great software is built through curiosity, continuous learning, and attention to detail."*
+- Full Stack Development
+- Backend Engineering
+- Cloud Computing
+- Artificial Intelligence
+- Software Architecture
+- DevOps
+- Open Source
 
 ---
 
-<p align="center">
-Thanks for visiting my profile! ⭐
-</p>
+# 📫 Contact
 
+📧 **Email**
+
+**diegovaldovinos125@gmail.com**
+
+💼 **LinkedIn**
+
+**linkedin.com/in/diego-valdovinos-rodriguez**
+
+💻 **GitHub**
+
+**github.com/D1eVr**
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+*"Building software that creates real impact through innovation, scalability, and continuous learning."*
+
+</div>
