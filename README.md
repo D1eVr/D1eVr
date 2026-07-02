@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Banner" width="100%"/>
+<img src="assets/Banner.png" alt="Banner" width="100%"/>
 
 <br>
+
+<p>
+Passionate about building scalable software, modern web applications, cloud solutions, and AI-powered products.
+</p>
 
 <p align="center">
 <a href="https://github.com/D1eVr">GitHub</a> •
@@ -16,12 +20,11 @@
 
 # 👨🏻‍💻 About Me
 
-🎓 **Software Engineering Student (7th Semester)**  
-**Universidad Anáhuac Querétaro, Mexico**
+I'm a **7th Semester Software Engineering Student** at **Universidad Anáhuac Querétaro (Mexico)** with a strong passion for software development, cloud technologies, and artificial intelligence.
 
-I am passionate about software engineering, cloud computing, and artificial intelligence. I enjoy designing scalable systems, developing modern web applications, and continuously learning new technologies that help transform ideas into high-quality digital products.
+I enjoy transforming ideas into real-world applications by designing clean, scalable, and maintainable solutions. My main interests include backend engineering, cloud infrastructure, software architecture, and modern web development.
 
-Currently, I am focused on improving my knowledge in backend development, cloud infrastructure, software architecture, and AI while building real-world applications.
+Currently, I am continuously improving my technical skills by building personal projects, exploring new technologies, and applying software engineering best practices.
 
 ---
 
@@ -29,8 +32,8 @@ Currently, I am focused on improving my knowledge in backend development, cloud 
 
 - 🌐 Developing production-ready web applications
 - ☁️ Learning AWS Cloud & DevOps
-- 🤖 Building AI-powered solutions
-- 🏗️ Studying Clean Architecture & System Design
+- 🤖 Building AI-powered applications
+- 🏗️ Studying System Design & Clean Architecture
 - 📚 Expanding my knowledge in Software Engineering
 
 ---
@@ -79,7 +82,7 @@ Currently, I am focused on improving my knowledge in backend development, cloud 
 
 ## ✈️ Alcon Travel Platform
 
-A complete travel booking platform designed to simplify reservations and business management.
+A modern travel booking platform designed to simplify reservations and business management.
 
 **Highlights**
 
@@ -87,9 +90,9 @@ A complete travel booking platform designed to simplify reservations and busines
 - Reservation management
 - Administrative dashboard
 - Payment integration
-- Responsive design
+- Responsive interface
 
-**Stack**
+**Tech Stack**
 
 Next.js • React • Supabase • Stripe
 
@@ -97,16 +100,16 @@ Next.js • React • Supabase • Stripe
 
 ## 🧠 PgPilot
 
-AI-assisted SQL optimization platform that helps developers analyze and improve PostgreSQL queries.
+An AI-assisted SQL optimization platform that helps developers analyze and improve PostgreSQL queries.
 
 **Highlights**
 
 - Query optimization
+- PostgreSQL integration
 - Dockerized environment
-- PostgreSQL support
-- Developer-oriented interface
+- Developer-friendly interface
 
-**Stack**
+**Tech Stack**
 
 Python • PostgreSQL • Docker
 
@@ -114,9 +117,9 @@ Python • PostgreSQL • Docker
 
 ## 💰 Finance Dashboard
 
-Interactive personal finance dashboard with real-time analytics and visual reports.
+Interactive dashboard for personal finance management with real-time visual analytics.
 
-**Stack**
+**Tech Stack**
 
 Python • Streamlit
 
@@ -124,9 +127,9 @@ Python • Streamlit
 
 ## 🏢 Condominium Management System
 
-Management platform for residential communities with administrative tools and database integration.
+A management platform for residential communities with administrative tools and secure authentication.
 
-**Stack**
+**Tech Stack**
 
 Django • MySQL
 
@@ -163,8 +166,8 @@ Django • MySQL
 - AWS Cloud
 - Docker
 - DevOps
-- Clean Architecture
 - System Design
+- Clean Architecture
 - Artificial Intelligence
 - AI Agents
 - MCP Servers
@@ -185,23 +188,23 @@ Django • MySQL
 
 # 📫 Contact
 
-📧 **Email**
+**Email**
 
-**diegovaldovinos125@gmail.com**
+📧 **diegovaldovinos125@gmail.com**
 
-💼 **LinkedIn**
+**LinkedIn**
 
-**linkedin.com/in/diego-valdovinos-rodriguez**
+💼 **linkedin.com/in/diego-valdovinos-rodriguez**
 
-💻 **GitHub**
+**GitHub**
 
-**github.com/D1eVr**
+💻 **github.com/D1eVr**
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### Thanks for visiting my profile! ⭐
 
 *"Building software that creates real impact through innovation, scalability, and continuous learning."*
 
